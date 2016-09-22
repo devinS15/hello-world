@@ -1,5 +1,5 @@
 .container{
-	text-decoration-color: #FF5733;
+	color: #FF5733;
 }
 }
 ul {
@@ -30,4 +30,14 @@ body {
 }
 .container{ 
 	background-color:#581845;
+}
+ul {
+    list-style-type: none;
+    margin: 5px;
+    padding:5px;
+    width: 500px;
+} 
+
+li a {
+    display: block;
 }
