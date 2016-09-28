@@ -41,3 +41,7 @@ ul {
 li a {
     display: block;
 }
+img {
+    height: 300px;
+    width: 400px;
+}
