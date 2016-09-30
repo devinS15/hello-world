@@ -33,15 +33,26 @@ body {
 }
 ul {
     list-style-type: none;
-    margin: 5px;
-    padding:5px;
-    width: 500px;
+    margin: 0;
+    padding:0;
+    overflow: hidden;
+    Background-color: #111;
 } 
 
+li {
+    float: left;
+}
 li a {
     display: block;
+    color: 9E9C9C;
+    text-align: center;
+    padding: 14x 16x;
+    text-decoration: none;
 }
-img {
-    height: 300px;
-    width: 400px;
+li a {
+    background-color: #111;
+}
+img{
+    height:300px;
+    width: 500px;
 }
