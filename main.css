@@ -53,6 +53,9 @@ li a {
     background-color: #111;
 }
 img{
-    height:300px;
+    height:400px;
     width: 500px;
+}
+p{
+   font-family:  'Audiowide', cursive;
 }
